@@ -8,3 +8,56 @@ ul
 {
     list-style-type: none;
 }
+
+.skill li
+{
+    margin: 10px;
+}
+
+.bar
+{
+    width : 100%;
+    background-color: rgb(0, 110, 255,0.1);
+}
+
+.fill
+{
+    color: white;
+    text-align: right;
+}
+
+.fillsk
+{
+    color: white;
+    text-align: left;
+}
+    
+.mlrit{width:81.6%;background-color: rgba(0, 110, 255,0.7);}
+
+.narayana{width:87.3%;background-color: rgba(0, 110, 255,0.7);}
+
+.ten{width:82%;background-color: rgba(0, 110, 255,0.7);}
+
+.java{width:65%;background-color: rgba(0, 110, 255,0.7);}
+
+.python{width:50%;background-color: rgba(0, 110, 255,0.7);}
+
+.html{width:30%;background-color: rgba(0, 110, 255,0.7);}
+
+.css{width:30%;background-color: rgba(0, 110, 255,0.7);}
+
+.c{width:60%;background-color: rgba(0, 110, 255,0.7);}
+
+.labview{width:40%;background-color: rgba(0, 110, 255,0.7);}
+
+.mcuexpresso{width:40%;background-color: rgba(0, 110, 255,0.7);}
+
+.keil{width:30%;background-color: rgba(0, 110, 255,0.7);}
+
+.aws{width:15%;background-color: rgba(0, 110, 255,0.7);}
+
+.proteus{width:20%;background-color: rgba(0, 110, 255,0.7);}
+
+.jenkins{width:50%;background-color: rgba(0, 110, 255,0.7);}
+
+.git{width:50%;background-color: rgba(0, 110, 255,0.7);}
